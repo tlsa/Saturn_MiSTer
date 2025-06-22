@@ -10,7 +10,8 @@ This implements:
 - 128 MB SDRAM Module (Primary)
 - SDRAM Module of any size (32MB-128MB) (Secondary)
 
-> **Note:** Dual SDRAM modules is recommended for better compatibility.
+> [!NOTE]
+> Dual SDRAM modules is recommended for better compatibility.
 
 ## Status
 
