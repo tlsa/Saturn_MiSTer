@@ -47,6 +47,7 @@ is no need for it.)
 > | Fighters Megamix | Enable fast timings to reduce slowdown. |
 > | Fighting Vipers | Enable fast timings to reduce slowdown. |
 > | Grandia | Enable fast timings to reduce (but not completely eliminate) texture flicker. |
+> | Gunbird | Enable fast timings fix graphical glitches in cutscenes[^13]. |
 
 On the whole Dual SDRAM will perform better.
 
@@ -105,3 +106,4 @@ Where the bugs types are defined below.
 [^10]: Comment on issue [Fighters Megamix // Skipping Intro Cutscene Freezes Game](https://github.com/MiSTer-devel/Saturn_MiSTer/issues/136#issuecomment-2449280850).
 [^11]: Comment on issue [Pyon Pyon Kyaruru no Mahjong Biyori // Corruption In Intro On Single RAM Build (10-30-2024~)](https://github.com/MiSTer-devel/Saturn_MiSTer/issues/251#issuecomment-2481418725).
 [^12]: Comment on issue [Pyon Pyon Kyaruru no Mahjong Biyori // Corruption In Intro On Single RAM Build (10-30-2024~)](https://github.com/MiSTer-devel/Saturn_MiSTer/issues/251#issuecomment-2482401756).
+[^13]: Comment on issue [Gunbird: graphical glitches during cutscene after first boss](https://github.com/MiSTer-devel/Saturn_MiSTer/issues/405#issuecomment-2969629478).
