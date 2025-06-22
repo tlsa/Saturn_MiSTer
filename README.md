@@ -80,7 +80,7 @@ The following are minor issues/glitches.
 | Magical Night Dreams - Cotton 2 | 👀 | Minor visual glitch on the background[^4]. |
 | Rabbit | 👀 | Sprite assets are improperly scaled compared to the arcade version. (An [English patch](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn) enables option to disable the zoom.) |
 | Simulation Zoo | 👀 | Menu overdrawn[^5]. |
-| Sonic Wings Special | 👀 | Graphical corruption when chaning screen modes[^2]. |
+| Sonic Wings Special | 👀 | Graphical corruption when changing screen modes[^2]. |
 | Twinkle Star Sprites | 👂 | Heavily compressed audio samples compared to the original Neo Geo version. |
 
 Where the bugs types are defined below.
