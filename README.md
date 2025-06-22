@@ -1,5 +1,10 @@
 # [Sega Saturn](https://en.wikipedia.org/wiki/Sega_Saturn) for MiSTer
 
+This implements:
+
+* Sega Saturn home console
+* Sega Titan Video (ST-V) arcade board (based on the Saturn)
+
 ## Hardware Requirements
 
 - 128 MB SDRAM Module (Primary)
